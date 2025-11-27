@@ -1,0 +1,123 @@
+{
+  "test_accuracy": 73.8238841978287,
+  "classification_report": {
+    "Casual": {
+      "precision": 0.9730621220450797,
+      "recall": 0.6869784591500097,
+      "f1-score": 0.8053691275167786,
+      "support": 5153
+    },
+    "Ethnic": {
+      "precision": 0.6924219910846954,
+      "recall": 0.9568788501026694,
+      "f1-score": 0.8034482758620689,
+      "support": 487
+    },
+    "Formal": {
+      "precision": 0.6054545454545455,
+      "recall": 0.940677966101695,
+      "f1-score": 0.7367256637168141,
+      "support": 354
+    },
+    "General": {
+      "precision": 0.125,
+      "recall": 0.95,
+      "f1-score": 0.22093023255813954,
+      "support": 40
+    },
+    "Other": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0
+    },
+    "Sports": {
+      "precision": 0.6006944444444444,
+      "recall": 0.8678929765886287,
+      "f1-score": 0.7099863201094391,
+      "support": 598
+    },
+    "accuracy": 0.738238841978287,
+    "macro avg": {
+      "precision": 0.4994388505047942,
+      "recall": 0.7337380419905005,
+      "f1-score": 0.5460766032938734,
+      "support": 6632
+    },
+    "weighted avg": {
+      "precision": 0.894141256246265,
+      "recall": 0.738238841978287,
+      "f1-score": 0.7894385310799622,
+      "support": 6632
+    }
+  },
+  "confusion_matrix": [
+    [
+      3540,
+      207,
+      215,
+      261,
+      586,
+      344
+    ],
+    [
+      11,
+      466,
+      1,
+      3,
+      6,
+      0
+    ],
+    [
+      14,
+      0,
+      333,
+      2,
+      5,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      38,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      72,
+      0,
+      1,
+      0,
+      6,
+      519
+    ]
+  ],
+  "model_info": {
+    "epoch": 3,
+    "val_loss": 0.4964439468969088,
+    "val_acc": 72.39669421487604,
+    "num_classes": 6,
+    "classes": [
+      "Casual",
+      "Ethnic",
+      "Formal",
+      "General",
+      "Other",
+      "Sports"
+    ]
+  },
+  "test_samples": {
+    "total": 6655,
+    "valid": 6632,
+    "unseen_classes": 23
+  }
+}

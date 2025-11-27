@@ -1,0 +1,420 @@
+{
+  "test_queries": [
+    {
+      "query_idx": 35948,
+      "query_img_id": 21224,
+      "query_category": "Tshirts",
+      "recommendations": [
+        {
+          "rank": 1,
+          "img_id": 21225,
+          "similarity": 0.9659497737884521,
+          "articleType": "Tshirts",
+          "productDisplayName": "Basics Men Grey Printed T-shirt"
+        },
+        {
+          "rank": 2,
+          "img_id": 26272,
+          "similarity": 0.9283430576324463,
+          "articleType": "Tshirts",
+          "productDisplayName": "Proline Men Blue Polo T-shirt"
+        },
+        {
+          "rank": 3,
+          "img_id": 34235,
+          "similarity": 0.9248262047767639,
+          "articleType": "Tshirts",
+          "productDisplayName": "Proline Men Cream-Coloured Polo T-Shirt"
+        },
+        {
+          "rank": 4,
+          "img_id": 34227,
+          "similarity": 0.9246718883514404,
+          "articleType": "Tshirts",
+          "productDisplayName": "Proline Men Grey T-shirt"
+        },
+        {
+          "rank": 5,
+          "img_id": 27527,
+          "similarity": 0.920724093914032,
+          "articleType": "Shirts",
+          "productDisplayName": "Scullers Men Check Blue Shirt"
+        },
+        {
+          "rank": 6,
+          "img_id": 34234,
+          "similarity": 0.9196045398712158,
+          "articleType": "Tshirts",
+          "productDisplayName": "Proline Men Navy Polo T-shirt"
+        },
+        {
+          "rank": 7,
+          "img_id": 30802,
+          "similarity": 0.9187633991241455,
+          "articleType": "Shirts",
+          "productDisplayName": "Fabindia Men Blue Shirt"
+        },
+        {
+          "rank": 8,
+          "img_id": 29290,
+          "similarity": 0.9172277450561523,
+          "articleType": "Shirts",
+          "productDisplayName": "Wrangler Men Miriam Checks Blue Shirt"
+        },
+        {
+          "rank": 9,
+          "img_id": 34217,
+          "similarity": 0.9168887138366699,
+          "articleType": "Tshirts",
+          "productDisplayName": "Proline Navy Blue Polo T-shirt"
+        },
+        {
+          "rank": 10,
+          "img_id": 7751,
+          "similarity": 0.9154557585716248,
+          "articleType": "Tshirts",
+          "productDisplayName": "Indigo Nation Men Young Lords Black T-shirt"
+        }
+      ],
+      "metrics": {
+        "same_category_rate": 0.7,
+        "avg_similarity": 0.9252455174922943,
+        "search_time_ms": 6.947755813598633
+      }
+    },
+    {
+      "query_idx": 32980,
+      "query_img_id": 17159,
+      "query_category": "Shirts",
+      "recommendations": [
+        {
+          "rank": 1,
+          "img_id": 17158,
+          "similarity": 0.9792945981025696,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Checks Navy Blue Shirt"
+        },
+        {
+          "rank": 2,
+          "img_id": 17164,
+          "similarity": 0.9782307147979736,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Checks Blue Shirt"
+        },
+        {
+          "rank": 3,
+          "img_id": 17188,
+          "similarity": 0.9773963689804077,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Checks Blue Shirt"
+        },
+        {
+          "rank": 4,
+          "img_id": 17157,
+          "similarity": 0.9764089584350586,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Checks Maroon Shirt"
+        },
+        {
+          "rank": 5,
+          "img_id": 19839,
+          "similarity": 0.9707040190696716,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Check Brown Shirt"
+        },
+        {
+          "rank": 6,
+          "img_id": 17166,
+          "similarity": 0.9697991013526917,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Checks Maroon Shirt"
+        },
+        {
+          "rank": 7,
+          "img_id": 17161,
+          "similarity": 0.968201220035553,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Checks Purple Shirt"
+        },
+        {
+          "rank": 8,
+          "img_id": 17186,
+          "similarity": 0.9640449285507202,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Checks Maroon Shirt"
+        },
+        {
+          "rank": 9,
+          "img_id": 17181,
+          "similarity": 0.9625221490859985,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Solid Blue Shirt"
+        },
+        {
+          "rank": 10,
+          "img_id": 19844,
+          "similarity": 0.9611998796463013,
+          "articleType": "Shirts",
+          "productDisplayName": "U.S. Polo Assn. Men Check Red Shirt"
+        }
+      ],
+      "metrics": {
+        "same_category_rate": 1.0,
+        "avg_similarity": 0.9707801938056946,
+        "search_time_ms": 7.523298263549805
+      }
+    },
+    {
+      "query_idx": 33858,
+      "query_img_id": 51756,
+      "query_category": "Casual Shoes",
+      "recommendations": [
+        {
+          "rank": 1,
+          "img_id": 17682,
+          "similarity": 0.975549042224884,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Catwalk Women Closed Blue Casual Shoe"
+        },
+        {
+          "rank": 2,
+          "img_id": 51753,
+          "similarity": 0.9291636347770691,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Catwalk Women Grey Pumps"
+        },
+        {
+          "rank": 3,
+          "img_id": 39248,
+          "similarity": 0.9255920648574829,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Red Chief Men Olive Shoes"
+        },
+        {
+          "rank": 4,
+          "img_id": 57942,
+          "similarity": 0.9253811836242676,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Clarks Men Brown Shoes"
+        },
+        {
+          "rank": 5,
+          "img_id": 32727,
+          "similarity": 0.924511730670929,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Fila Unisex Skeletoes 2.0 Black Shoes"
+        },
+        {
+          "rank": 6,
+          "img_id": 8089,
+          "similarity": 0.9237078428268433,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "ADIDAS Men Jawpaw II Black Shoe"
+        },
+        {
+          "rank": 7,
+          "img_id": 22914,
+          "similarity": 0.9233198761940002,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Puma Men Neo Low Black Shoes"
+        },
+        {
+          "rank": 8,
+          "img_id": 59342,
+          "similarity": 0.9200331568717957,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Gliders Men Brown Shoes"
+        },
+        {
+          "rank": 9,
+          "img_id": 24718,
+          "similarity": 0.9188938736915588,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Skechers Men Brown Casual Shoes"
+        },
+        {
+          "rank": 10,
+          "img_id": 17684,
+          "similarity": 0.9186501502990723,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Catwalk Women Ballerina Grey Casual Shoe"
+        }
+      ],
+      "metrics": {
+        "same_category_rate": 0.8,
+        "avg_similarity": 0.9284802556037903,
+        "search_time_ms": 7.541418075561523
+      }
+    },
+    {
+      "query_idx": 8566,
+      "query_img_id": 56332,
+      "query_category": "Watches",
+      "recommendations": [
+        {
+          "rank": 1,
+          "img_id": 45044,
+          "similarity": 0.8986769914627075,
+          "articleType": "Watches",
+          "productDisplayName": "Maxima Attivo Women Grey Dial Watch"
+        },
+        {
+          "rank": 2,
+          "img_id": 25631,
+          "similarity": 0.8931795358657837,
+          "articleType": "Watches",
+          "productDisplayName": "Fastrack Women Black Casual Watch"
+        },
+        {
+          "rank": 3,
+          "img_id": 56340,
+          "similarity": 0.8799705505371094,
+          "articleType": "Watches",
+          "productDisplayName": "Fastrack Men Black Dial Watch 9912PP04"
+        },
+        {
+          "rank": 4,
+          "img_id": 56329,
+          "similarity": 0.8795011639595032,
+          "articleType": "Watches",
+          "productDisplayName": "Fastrack Women Black Dial Watch"
+        },
+        {
+          "rank": 5,
+          "img_id": 43174,
+          "similarity": 0.8749334812164307,
+          "articleType": "Watches",
+          "productDisplayName": "Fastrack Men Grey Dial Watch"
+        },
+        {
+          "rank": 6,
+          "img_id": 45020,
+          "similarity": 0.8736878037452698,
+          "articleType": "Watches",
+          "productDisplayName": "Maxima Aqua Men White Dial Watch"
+        },
+        {
+          "rank": 7,
+          "img_id": 25616,
+          "similarity": 0.8725491762161255,
+          "articleType": "Watches",
+          "productDisplayName": "Fastrack Women Black Casual Watch"
+        },
+        {
+          "rank": 8,
+          "img_id": 22950,
+          "similarity": 0.871751070022583,
+          "articleType": "Watches",
+          "productDisplayName": "Fastrack Unisex Black Dial Watch 9915PP13"
+        },
+        {
+          "rank": 9,
+          "img_id": 54659,
+          "similarity": 0.8704023361206055,
+          "articleType": "Watches",
+          "productDisplayName": "Fastrack Women Red Dial Watch"
+        },
+        {
+          "rank": 10,
+          "img_id": 25628,
+          "similarity": 0.8665148615837097,
+          "articleType": "Watches",
+          "productDisplayName": "Fastrack Women Charcoal Grey Dial Watch N6015SL02"
+        }
+      ],
+      "metrics": {
+        "same_category_rate": 1.0,
+        "avg_similarity": 0.8781166970729828,
+        "search_time_ms": 7.45391845703125
+      }
+    },
+    {
+      "query_idx": 29923,
+      "query_img_id": 31209,
+      "query_category": "Sports Shoes",
+      "recommendations": [
+        {
+          "rank": 1,
+          "img_id": 25461,
+          "similarity": 0.9583272933959961,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Men Dart 9 MSL Grey Sports Shoes"
+        },
+        {
+          "rank": 2,
+          "img_id": 8506,
+          "similarity": 0.9501527547836304,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Men Nike air dictate MSL Black Sports Shoes"
+        },
+        {
+          "rank": 3,
+          "img_id": 14330,
+          "similarity": 0.9438296556472778,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Men Free Run +2 Black Sports Shoes"
+        },
+        {
+          "rank": 4,
+          "img_id": 22735,
+          "similarity": 0.9425609111785889,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Women Grey Lunarswift +3 Sports Shoes"
+        },
+        {
+          "rank": 5,
+          "img_id": 9274,
+          "similarity": 0.9409263134002686,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Men's Lunareclipse+ Navy Blue Shoe"
+        },
+        {
+          "rank": 6,
+          "img_id": 25477,
+          "similarity": 0.9409105777740479,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Men Lunarfly +3 Grey Sports Shoes"
+        },
+        {
+          "rank": 7,
+          "img_id": 17831,
+          "similarity": 0.9397862553596497,
+          "articleType": "Casual Shoes",
+          "productDisplayName": "Nike Men Air Max 1 Black Casual Shoe"
+        },
+        {
+          "rank": 8,
+          "img_id": 31958,
+          "similarity": 0.9362443685531616,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Men Revolution Grey Sports Shoes"
+        },
+        {
+          "rank": 9,
+          "img_id": 9398,
+          "similarity": 0.935670018196106,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Men Lunarfly Black Sports Shoes"
+        },
+        {
+          "rank": 10,
+          "img_id": 6649,
+          "similarity": 0.9351546764373779,
+          "articleType": "Sports Shoes",
+          "productDisplayName": "Nike Men's Air Max Tailwind 3 Black Yellow Shoe"
+        }
+      ],
+      "metrics": {
+        "same_category_rate": 0.9,
+        "avg_similarity": 0.9423562824726105,
+        "search_time_ms": 7.505893707275391
+      }
+    }
+  ],
+  "global_metrics": {
+    "avg_same_category_rate": 0.8800000000000001,
+    "avg_similarity": 0.9289957892894746,
+    "avg_search_time_ms": 7.39445686340332,
+    "avg_diversity": 0.16
+  }
+}

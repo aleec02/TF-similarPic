@@ -1,0 +1,28 @@
+{
+  "class_to_idx": {
+    "Casual": 0,
+    "Ethnic": 1,
+    "Formal": 2,
+    "General": 3,
+    "Other": 4,
+    "Sports": 5
+  },
+  "idx_to_class": {
+    "0": "Casual",
+    "1": "Ethnic",
+    "2": "Formal",
+    "3": "General",
+    "4": "Other",
+    "5": "Sports"
+  },
+  "classes": [
+    "Casual",
+    "Ethnic",
+    "Formal",
+    "General",
+    "Other",
+    "Sports"
+  ],
+  "num_classes": 6,
+  "strategy": "all"
+}

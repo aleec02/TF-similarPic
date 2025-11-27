@@ -1,0 +1,46 @@
+============================================================
+  INFORMACIÓN DE SPLITS TRAIN/VAL/TEST
+============================================================
+
+1. CONFIGURACIÓN
+   - Train size: 70.0%
+   - Val size: 15.0%
+   - Test size: 15.0%
+   - Random state: 42
+   - Estratificación: articleType
+
+2. TAMAÑOS REALES
+   - Dataset total: 44,405 productos
+   - Train: 31,083 (70.00%)
+   - Val: 6,655 (14.99%)
+   - Test: 6,655 (14.99%)
+
+3. CLASES POR SPLIT
+   - Train: 132 clases únicas
+   - Val: 120 clases únicas
+   - Test: 120 clases únicas
+
+4. TOP 10 CATEGORÍAS (articleType)
+    1. Tshirts                  : Total=7,066 | Train=4,946 | Val=1,060 | Test=1,060
+    2. Shirts                   : Total=3,215 | Train=2,250 | Val= 482 | Test= 483
+    3. Casual Shoes             : Total=2,845 | Train=1,991 | Val= 427 | Test= 427
+    4. Watches                  : Total=2,542 | Train=1,779 | Val= 381 | Test= 382
+    5. Sports Shoes             : Total=2,036 | Train=1,425 | Val= 305 | Test= 306
+    6. Kurtas                   : Total=1,844 | Train=1,291 | Val= 276 | Test= 277
+    7. Tops                     : Total=1,762 | Train=1,233 | Val= 264 | Test= 265
+    8. Handbags                 : Total=1,759 | Train=1,231 | Val= 264 | Test= 264
+    9. Heels                    : Total=1,323 | Train= 926 | Val= 199 | Test= 198
+   10. Sunglasses               : Total=1,073 | Train= 751 | Val= 161 | Test= 161
+
+5. DISTRIBUCIÓN DE GÉNEROS
+   - Men       : Total=22,138 | Train=15,490 | Val=3,322 | Test=3,325
+   - Women     : Total=18,625 | Train=13,017 | Val=2,802 | Test=2,798
+   - Boys      : Total=  830 | Train= 591 | Val= 107 | Test= 132
+   - Girls     : Total=  655 | Train= 459 | Val= 110 | Test=  86
+   - Unisex    : Total=2,157 | Train=1,526 | Val= 314 | Test= 314
+
+6. ARCHIVOS GENERADOS
+   - train.csv
+   - val.csv
+   - test.csv
+   - splits_distribution.png

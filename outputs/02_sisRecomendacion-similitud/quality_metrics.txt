@@ -1,0 +1,30 @@
+======================================================================
+  REPORTE DE CALIDAD - SISTEMA DE RECOMENDACIÓN
+======================================================================
+
+Configuración:
+   - Índice: Flat
+   - K resultados: 10
+   - Número de queries de test: 5
+
+Métricas Globales:
+   - Tasa de coincidencia de categoría: 88.0%
+   - Similitud promedio: 0.9290
+   - Tiempo de búsqueda promedio: 7.39 ms
+   - Diversidad promedio: 0.16
+
+Resultados por Categoría:
+   - Tshirts             :  70.0% match | Sim=0.9252
+   - Shirts              : 100.0% match | Sim=0.9708
+   - Casual Shoes        :  80.0% match | Sim=0.9285
+   - Watches             : 100.0% match | Sim=0.8781
+   - Sports Shoes        :  90.0% match | Sim=0.9424
+
+======================================================================
+Interpretación:
+   - Coincidencia >70%: Sistema identifica bien categorías visuales
+   - Similitud >0.7: Embeddings CLIP de alta calidad
+   - Tiempo <50ms: Búsqueda suficientemente rápida para producción
+   - Diversidad 0.3-0.7: Balance óptimo entre similitud y variedad
+
+======================================================================

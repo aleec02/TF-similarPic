@@ -1,0 +1,39 @@
+============================================================
+  REPORTE DE LIMPIEZA DEL DATASET
+============================================================
+
+1. DATASET ORIGINAL
+   - Total filas CSV: 44,424
+   - Total imágenes: 44,441
+
+2. VALIDACIÓN DE INTEGRIDAD
+   - Coincidencias CSV-Imágenes: 44,419
+   - Solo en CSV (descartados): 5
+   - Solo en imágenes (descartados): 22
+
+3. DETECCIÓN DE IMÁGENES CORRUPTAS
+   - Imágenes válidas: 44,419
+   - Imágenes corruptas: 0
+
+4. LIMPIEZA DE DATOS
+   - Productos con imagen válida: 44,419
+   - Eliminados por NaN: 0
+   - Dataset final limpio: 44,419
+
+5. DISTRIBUCIÓN FINAL
+   - Géneros únicos: 5
+   - Categorías principales: 7
+   - Tipos de artículo: 142
+   - Colores: 47
+
+6. TOP 10 CATEGORÍAS
+   - Tshirts: 7,066
+   - Shirts: 3,215
+   - Casual Shoes: 2,845
+   - Watches: 2,542
+   - Sports Shoes: 2,036
+   - Kurtas: 1,844
+   - Tops: 1,762
+   - Handbags: 1,759
+   - Heels: 1,323
+   - Sunglasses: 1,073
