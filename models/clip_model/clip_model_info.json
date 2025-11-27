@@ -1,0 +1,13 @@
+{
+  "model_name": "openai/clip-vit-base-patch32",
+  "model_type": "CLIP ViT-B/32",
+  "embedding_dim": 512,
+  "image_size": 224,
+  "file_size_mb": 577.2017631530762,
+  "download_time_seconds": 9.50308108329773,
+  "pth_load_time_seconds": 2.442436456680298,
+  "speedup": 3.8908201919873457,
+  "total_params": 151277313,
+  "saved_at": "2025-11-27 01:20:17",
+  "usage": "Load with: CLIPModel.from_pretrained() + load_state_dict()"
+}
